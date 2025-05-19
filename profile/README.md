@@ -1,6 +1,6 @@
-# samp-crossplay (Android & PC)
+# SA-MP Modern (Android & PC)
 
-**samp-crossplay** is a project developed by **Eagle Vision** with the goal of bringing the **San Andreas Multiplayer (SA-MP)** experience to both **Android** and **PC (Windows)** platforms — with crossplay support planned between them.
+**SA-MP Modern** is a project developed by **Eagle Vision** with the goal of bringing the **San Andreas Multiplayer (SA-MP)** experience to both **Android** and **PC (Windows)** platforms — with crossplay support planned between them.
 
 Our mission is to create a modern, stable, and user-friendly SA-MP client for both mobile and desktop users. The Android version already supports multiple ABI architectures (such as `armeabi-v7a`, `arm64-v8a`), ensuring compatibility with a wide range of smartphones and tablets. The PC version is currently in development, aiming to deliver the same consistent experience.
 
