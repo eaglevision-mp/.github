@@ -1,38 +1,21 @@
-# SA-MP Modern (Android & PC)
+# Eagle Vision Multiplayer (eaglevision-mp)
 
-**SA-MP Modern** is a project developed by **Eagle Vision** with the goal of bringing the **San Andreas Multiplayer (SA-MP)** experience to both **Android** and **PC (Windows)** platforms — with crossplay support planned between them.
+**Eagle Vision Multiplayer** is a derivative organization of **Eagle Vision**, focused on the development and maintenance of projects related to **San Andreas Multiplayer (SA-MP)**. Our goal is to provide modern, stable, and cross-platform multiplayer experiences for players on both PC and mobile devices.
 
-Our mission is to create a modern, stable, and user-friendly SA-MP client for both mobile and desktop users. The Android version already supports multiple ABI architectures (such as `armeabi-v7a`, `arm64-v8a`), ensuring compatibility with a wide range of smartphones and tablets. The PC version is currently in development, aiming to deliver the same consistent experience.
+We aim to create innovative solutions that connect the SA-MP community by enhancing compatibility across platforms and improving gameplay on desktop and Android devices.
 
-## 🎯 Goals
+## Main Project
 
-- Develop full-featured and optimized SA-MP clients for both Android and PC
-- Provide a modern UI optimized for both touch and mouse/keyboard controls
-- Ensure compatibility with public and private SA-MP servers
-- Support multiple ABI architectures (Android) and stable builds (PC)
-- Deliver a smooth, intuitive, and cross-platform multiplayer experience
+- **sa-mp-modern**: A modern SA-MP client project aimed at both Android and PC platforms, optimized for multiple architectures and designed to support seamless cross-platform gameplay.
 
-## 📦 Downloads
+## How to Get Involved
 
-You can download the latest available version here:
+While our projects are not open-source, we highly value community feedback and participation. Feel free to open issues, suggest improvements, or join our Discord server to interact with players and developers.
 
-- 🔗 [Latest Android APK Release](https://github.com/eaglevision-mp/sa-mp-modern/releases)
+## Contact
 
-> ⚠ For Android: Be sure to enable "Install from unknown sources" in your device settings before installing the APK.
-
-> ⚠ For PC: The Windows version is currently under development and will be released in a future update.
-
-## 👥 Join the Community
-
-Stay connected and get involved:
-
-- 💬 [Discord Server](https://discord.gg/CPpME3wY)
-- 🐞 [Track Issues and Suggestions](https://github.com/eaglevision-mp/sa-mp-modern/issues)
-
-## 🤝 Contribute
-
-While the project is not open-source, we welcome feedback, suggestions, and any form of community involvement. Feel free to open issues or join our Discord to discuss improvements or report problems.
+- [Discord](https://discord.gg/CPpME3wY)  
 
 ---
 
-Maintained with ❤️ by **Eagle Vision**
+Maintained with ❤️ by the Eagle Vision Multiplayer team
