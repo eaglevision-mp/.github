@@ -16,7 +16,7 @@ Our mission is to create a modern, stable, and user-friendly SA-MP client for bo
 
 You can download the latest available version here:
 
-- 🔗 [Latest Android APK Release](https://github.com/eaglevision-sa-mp/sa-mp-crossplay/releases)
+- 🔗 [Latest Android APK Release](https://github.com/eaglevision-mp/sa-mp-modern/releases)
 
 > ⚠ For Android: Be sure to enable "Install from unknown sources" in your device settings before installing the APK.
 
@@ -27,7 +27,7 @@ You can download the latest available version here:
 Stay connected and get involved:
 
 - 💬 [Discord Server](https://discord.gg/CPpME3wY)
-- 🐞 [Track Issues and Suggestions](https://github.com/samp-android/samp-android/issues)
+- 🐞 [Track Issues and Suggestions](https://github.com/eaglevision-mp/sa-mp-modern/issues)
 
 ## 🤝 Contribute
 
