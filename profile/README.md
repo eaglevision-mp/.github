@@ -6,7 +6,8 @@ We aim to create innovative solutions that connect the SA-MP community by enhanc
 
 ## Main Project
 
-- **sa-mp-modern**: A modern SA-MP client project aimed at both Android and PC platforms, optimized for multiple architectures and designed to support seamless cross-platform gameplay.
+- **sa-mp-modern**: A modern SA-MP client project aimed at both Android and PC platforms, optimized for multiple architectures and designed to support seamless cross-platform gameplay.  
+  [Repository](https://github.com/eaglevision-mp/sa-mp-modern)
 
 ## How to Get Involved
 
@@ -18,4 +19,4 @@ While our projects are not open-source, we highly value community feedback and p
 
 ---
 
-Maintained with ❤️ by the Eagle Vision Multiplayer team
+Maintained with ❤️ by the Eagle Vision team
